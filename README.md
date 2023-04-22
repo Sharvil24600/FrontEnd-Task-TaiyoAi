@@ -7,7 +7,7 @@
 
 # Contact Management App with Charts and Maps
 
-This is a contact management app built with ReactJS, TailwindCSS, React Router v6 and React Query.
+This is a contact management app built with ReactJS, TypeScript,TailwindCSS, React Router v6 and React Query.
 
 ## Objective
 
