@@ -16,7 +16,6 @@ This app serves two primary purposes:
 
 The following APIs were used to fetch data for the dashboard:
 
-- World-wide data of cases: https://disease.sh/v3/covid-19/all
 - Country-specific data of cases: https://disease.sh/v3/covid-19/countries
 - Graph data for cases with date: https://disease.sh/v3/covid-19/historical/all?lastdays=all
 
