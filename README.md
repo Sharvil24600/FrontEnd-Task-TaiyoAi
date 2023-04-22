@@ -31,4 +31,6 @@ git clone  https://github.com/Sharvil24600/FrontEnd-Task-TaiyoAi.git
 ### install packages
     npm install
 ### run project
-   npm start
+    npm start
+### for creating build
+    npm run build
