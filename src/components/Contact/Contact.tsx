@@ -26,7 +26,7 @@ const Contact: React.FC<ContactProps> = ({ contacts, deleteContact }) => {
         Create Contact
       </Link>
       <div className="container d-flex flex-wrap mt-20">
-        {contacts.length > 0 ? (
+        {contacts?.length > 0 ? (
           contacts.map((contact, index) => {
             return (
               <div
