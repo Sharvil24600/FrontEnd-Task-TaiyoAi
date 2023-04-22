@@ -3,7 +3,7 @@
 
 
 ## Deployed Link 
-   https://taiyo-ai.netlify.app/
+  https://main--frontent-task-taiyo-ai.netlify.app/
 
 # Contact Management App with Charts and Maps
 
