@@ -72,7 +72,7 @@ const LineGraph = () => {
     >
       <div className="card mb-3  max-w-lg" style={{ width: "40rem" }}>
         <div className="p-4 flex items-center">
-          {Object.keys(data).length > 0 && <Line data={chartData} />}
+          {Object.keys(data)?.length > 0 && <Line data={chartData} />}
         </div>
       </div>
     </div>

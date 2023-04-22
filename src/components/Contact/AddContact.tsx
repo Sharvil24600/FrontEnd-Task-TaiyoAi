@@ -33,7 +33,7 @@ const AddContact: React.FC<AddContactProps> = ({ contacts, addContact }) => {
     }
   
     const data: Contact = {
-      id: contacts.length > 0 ? contacts[contacts.length - 1].id + 1 : 0,
+      id: contacts?.length > 0 ? contacts[contacts.length - 1].id + 1 : 0,
       lastName,
       firstName,
       status,
