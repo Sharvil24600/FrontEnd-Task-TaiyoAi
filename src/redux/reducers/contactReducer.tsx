@@ -1,6 +1,7 @@
-const savedState = JSON.parse(localStorage.getItem("contacts")as any);
-
-
+const savedState = localStorage.getItem("contacts")
+  ? JSON.parse(localStorage.getItem("contacts") as any)
+  : [];
+  
 interface Contact {
   id: number;
   firstName: string;
