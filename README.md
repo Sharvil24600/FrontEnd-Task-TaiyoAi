@@ -19,7 +19,7 @@ This app serves two primary purposes:
 
 ## APIs Used
 
-The following APIs were used to fetch data for the dashboard:
+The following APIs were used to fetch data:
 
 - Country-specific data of cases (Used in Map): https://disease.sh/v3/covid-19/countries
 - Graph data for cases with date (Used in Line Chart): https://disease.sh/v3/covid-19/historical/all?lastdays=all
